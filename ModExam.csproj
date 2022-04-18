@@ -166,7 +166,7 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WSDiscount\WSDiscount.csproj">
+    <ProjectReference Include="WSDiscount\WSDiscount.csproj">
       <Project>{fffe537d-55bd-4540-8735-c3d9dd203bff}</Project>
       <Name>WSDiscount</Name>
     </ProjectReference>

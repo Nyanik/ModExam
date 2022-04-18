@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModExam", "ModExam.csproj", "{D0ED25AF-98DF-46ED-837D-CCBA43035D03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSDiscount", "..\WSDiscount\WSDiscount.csproj", "{FFFE537D-55BD-4540-8735-C3D9DD203BFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSDiscount", "WSDiscount\WSDiscount.csproj", "{FFFE537D-55BD-4540-8735-C3D9DD203BFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPrBooks", "..\UnitTestPrBooks\UnitTestPrBooks.csproj", "{EF8568D4-BC40-4F03-9989-42248663D77E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPrBooks", "UnitTestPrBooks\UnitTestPrBooks.csproj", "{EF8568D4-BC40-4F03-9989-42248663D77E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
